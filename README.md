@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Paul from Nigeria, and I am an aspiring Software Engineer. I primarily enjoy backend development although I have dabbled in front-end design. 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pbduke1737)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Pbduke1737/Pbduke1737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
