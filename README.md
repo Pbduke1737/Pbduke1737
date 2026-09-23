@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Paul Bassey-Duke
-#### Software Designer and Developer
+#### Data Engineer
 ![Software Designer and Developer](https://cdn-learn.adafruit.com/assets/assets/000/112/622/medium800/programming_GitHub_logo_with_mark.png?1656187481)
 
-I am an aspiring Software Engineer who primarily enjoys backend development although I have dabbled in front-end design.
+I am a Data Engineer who primarily enjoys backend development although I have dabbled in front-end design.
 
 Skills: PYTHON / SQL/ C / C# / C++/ JAVA / REACT / JS / HTML / CSS / JAVASCRIPT 
 
